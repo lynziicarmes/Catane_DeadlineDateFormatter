@@ -1,0 +1,10 @@
+event = input("Enter event title: ")
+year = int(input("Enter year: "))
+month = int(input("Enter month: "))
+day = int(input("Enter day: "))
+
+print("\nEvent Information:")
+print("Event:", event)
+print("Year:", year)
+print("Month:", month)
+print("Day:", day)
